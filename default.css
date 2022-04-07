@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(238, 223, 223);
+    font-size: 30px;
+    height: 70%;
+    width: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 4px 4px 4px #aaa;
+    position: absolute; top 50px:500px;
+    padding: 20px
+
+}
+
+#page{
+    background-color: whitesmoke;
+    height: 1220px;
+    width: 1350px;
+    position: absolute; top: 30px; left: 35px;
+}
+
+h1 {
+    color:aquamarine;
+    background-color:rgb(233, 127, 201);
+
+}
+h2 {
+    color: aquamarine;
+    font-size: 35px;
+    background-color: rgb(233, 127, 201);
+image-orientation: ;
+    
+
+
+}
